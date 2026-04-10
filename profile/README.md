@@ -49,7 +49,6 @@ The digital home and core informational hub for our association.
 We are always open to collaborations, sponsorships, and technical talks!
 
 - 📍 **Location:** Department of Computer Engineering, Bharati Vidyapeeth College of Engineering, Pune Lavale, Maharashtra.
-- 📞 **Phone:** +91-9146573033
 - ✉️ **Email:** [acesbvcoel2012@gmail.com](mailto:acesbvcoel2012@gmail.com)
 
 <div align="center">
