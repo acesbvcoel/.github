@@ -55,8 +55,7 @@ Our student developers utilize a modern, industry-standard stack to create fast,
 We are always open to collaborations, college partnerships, sponsorships, and technical talks!
 
 - 🌐 **Primary Hub:** [acesbvcoel.com](https://acesbvcoel.com)
-- 📍 **Location:** Department of Computer Engineering, Bharati Vidyapeeth College of Engineering, Pune Lavale, Maharashtra 412115.
-- 📞 **Phone:** +91-9146573033
+- 📍 **Location:** Department of Computer Engineering, Bharati Vidyapeeth's College of Engineering, Pune Lavale, Maharashtra 412115.
 - ✉️ **Email:** [acesbvcoel2012@gmail.com](mailto:acesbvcoel2012@gmail.com)
 
 ---
